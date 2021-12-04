@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mossi4476/baitest2/static/css/main.feaa3f49.chunk.css",
+    "main.js": "/mossi4476/baitest2/static/js/main.33c39b32.chunk.js",
+    "main.js.map": "/mossi4476/baitest2/static/js/main.33c39b32.chunk.js.map",
+    "runtime-main.js": "/mossi4476/baitest2/static/js/runtime-main.5b8ed2ea.js",
+    "runtime-main.js.map": "/mossi4476/baitest2/static/js/runtime-main.5b8ed2ea.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/mossi4476/baitest2/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/mossi4476/baitest2/static/js/2.d0eb047a.chunk.js.map",
+    "index.html": "/mossi4476/baitest2/index.html",
+    "static/css/main.feaa3f49.chunk.css.map": "/mossi4476/baitest2/static/css/main.feaa3f49.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/mossi4476/baitest2/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/bg.85ca134e.jpg": "/mossi4476/baitest2/static/media/bg.85ca134e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b8ed2ea.js",
+    "static/js/2.d0eb047a.chunk.js",
+    "static/css/main.feaa3f49.chunk.css",
+    "static/js/main.33c39b32.chunk.js"
+  ]
+}
